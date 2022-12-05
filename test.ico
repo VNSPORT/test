@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SCTV1hd" group-title="SCTV" tvg-logo="https://i.ibb.co/vd6jLtg/SCTV1.png", SCTV1
+#EXTVLCOPT:http-user-agent="VNSPORTS"
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv1/s1/index.m3u8?vnsports|Referer=http://sctvonline.vn/
+#EXTINF:0 tvg-id="sctv2hd"group-title="SCTV" tvg-logo="https://i.ibb.co/hZmsGHL/SCTV2.png" ,SCTV2
+#EXTVLCOPT:http-user-agent="KIIP"
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv2/s1/index.m3u8?kiptv|Referer=http://sctvonline.vn/
