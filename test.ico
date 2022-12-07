@@ -8,7 +8,7 @@ http://vas-mobiletv3.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv341&offset=1&nodelay
 
 #EXTINF:-1 tvg-id="Ksport2hd" group-title="K+" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+SPORT2 mytv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kETktdhDDu3Hd6hV17XlXg","kid":"zCgxGrP9S7eznQrNWNjVAw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pH5xUM7bGFVlI44TfriUWA","kid":"PyCw7LaWRUms9FDcNxm/3g"}],"type":"temporary"}
 http://s70132.cdn.mytvnet.vn/pkg20/wrap/xlive.mpd?c=vstv373&offset=1&nodelay=1
 
 #EXTINF:-1 tvg-id="Kcinehd" group-title="K+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE mytv
@@ -18,5 +18,7 @@ http://vas-mobiletv1.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv339&offset=1&nodelay
 
 #EXTINF:-1 tvg-id="Klifehd" group-title="K+" tvg-logo="https://i.imgur.com/PPpEIBP.png", K+LIFE mytv
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"pH5xUM7bGFVlI44TfriUWA","kid":"PyCw7LaWRUms9FDcNxm/3g"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"kETktdhDDu3Hd6hV17XlXg","kid":"zCgxGrP9S7eznQrNWNjVAw"}],"type":"temporary"}
 http://vas-mobiletv2.cdn.mytv.vn/pkg20/wrap/xlive.mpd?c=vstv340&offset=1&nodelay=1
+
+{"keys":[{"kty":"oct","k":"kETktdhDDu3Hd6hV17XlXg","kid":"zCgxGrP9S7eznQrNWNjVAw"}],"type":"temporary"}
