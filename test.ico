@@ -1,7 +1,8 @@
 #EXTM3U
 
-https://m.aiiptv.click/IPTV/?iptv=311
+
 #EXTINF:-1 tvg-name="KSPORT1 (MyTV)" tvg-logo="https://user.aiiptv.click/Logo/KplusSport1.png" group-title="K+ Channel" tvg-id="Ksport1hd",KSPORT1 (MyTV)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"Kppi0iLkP65skRnIqNh8Aw","kid":"FEeYw86wRKy45tLwj/iLog"}],"type":"temporary"}
+https://m.aiiptv.click/IPTV/?iptv=311
