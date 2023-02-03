@@ -1,15 +1,32 @@
 
 #EXTM3U
-#EXTINF:-1 tvg-id="Ksport1hd" group-title="🅺+" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+SPORT1 HD
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+ VieOn" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/qs8nfynd_k-cine_296_168.webp", K+CINE FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=#EXTINF:-1 tvg-id="Kcinehd" group-title="🅺+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Yoy+JyyF83Cb9sl9WT0SUw", "kid":"Ow7dQItcRq+vA5I48DdL1A" } ], "type":"temporary" }
-https://sgn-vtt-001-livecdn-vthn2-vnd.vieon.vn/fb195489f4d554c4cc62ed11d83a16a1/1671947564223/wz/livetv_origin_drm/kplus_sport_1_22_08_2021_web.smil/manifest.mpd?token=OWU5MzliODgtODgzOC05OWM1LTYwODMtYzY4MjBiZDBkMzJlfHdlYnwzYTkxYmNiM2ZiYTIzNjVkY2VkOGIxNmQ5NDE2MGRlZHwxZTVlOTQ4MC0xM2QwLTRhM2MtOTcwYi03ODI4ODAwM2Q3Mjh8bGl2ZXR2fDMwNzkxM3w0ODI3NTk5ZTdkMjQ1ZDBiYzU1ZGEzNjlkMTJlNjM3Ng==
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"MUhMjNRWi7thsEBq8D5kfXw", "kid":"LBiIAkpIOski5i0jME/+znA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://raintv.tk/get/vieon/ba2c5a1385af89csa4e0s8e1379d4edf35afaad349/kcinehd/manifest.mpd
 
-#EXTINF:-1 tvg-id="Kcinehd" group-title="🅺+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE HD
+#EXTINF:-1 tvg-id="klifehd" group-title="K+ VieOn" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/8cu1dyf9_k-life_296_168.webp", K+LIFE FHD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=#EXTINF:-1 tvg-id="Kcinehd" group-title="🅺+" tvg-logo="https://i.ibb.co/g7y1npq/Kplus-Cine.png", K+CINE HD
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"iWFGjPZD4yqsU9SR4AW5SVQ", "kid":"ogbfUs5DaMZ+fM7ofpIpEhg" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://raintv.tk/get/vieon/ba2c5a1385af89cass4e08e1379d4edf35afaad349/klifehd/manifest.mpd
+
+#EXTINF:-1 tvg-id="kkidshd" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2022/03/03/1jx5psdg_livetv-ngang_296_168.webp" group-title="K+ VieOn",K+KIDS HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Yoy+JyyF83Cb9sl9WT0SUw", "kid":"Ow7dQItcRq+vA5I48DdL1A" } ], "type":"temporary" }
-https://sgn-vtt-001-livecdn-vthn2-vnd.vieon.vn/794a3dd09f11dbf4e238cae77d392a2d/1671947953022/wz/livetv_origin_drm/kplus_1_22_08_2021_web.smil/manifest.mpd?token=OWU5MzliODgtODgzOC05OWM1LTYwODMtYzY4MjBiZDBkMzJlfHdlYnwzYTkxYmNiM2ZiYTIzNjVkY2VkOGIxNmQ5NDE2MGRlZHw1MWFjY2IyYy0xZGUwLTRhNWMtOWQ4YS1iMTM5YTIyYjkwMTJ8bGl2ZXR2fDMwNzlBOHxlNjYxODRmNWI5OWE0YWUxZjlhOGYyYjg4YzU2ZWVhOQ==
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"iSOD8bCwY3T3sRvqF4fFifg", "kid":"X9rAUYedMDeps0jmGFR5xbw" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://raintv.tk/get/vieon/ba2c5a1385af8s9ca4se08e1379d4edf35afaad349/kids/manifest.mpd
+
+#EXTINF:-1 tvg-id="ksport1hd" group-title="K+ VieOn" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/10/28/fxxda3tb_k-sport1b118c9aa73fa0dff5b4b412563b03e7f_296_168.webp", K+SPORT1 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Vz3g6rR3sY5W4RUjWN75Zgg", "kid":"AJwgucFiNFCwPW9Xjsn6RMA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://raintv.tk/get/vieon/ba2c5a138s5af89cas4e08e1379d4edf35afaad349/ksport1hd/manifest.mpd
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="K+ VieOn" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/09/30/bwx6fdo1_sport2_296_168.webp", K+SPORT2 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"C1m6hYwbfPIkTFdtonsYsgg", "kid":"PGQuhgq+PfqKyJscA93BvqA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://raintv.tk/get/vieon/ba2c5a1385af89csa4e08e13s79d4edf35afaad349/ksport2hd/manifest.mpd
