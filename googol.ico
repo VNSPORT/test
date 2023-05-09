@@ -87,32 +87,53 @@ https://vstv.broadpeak-aas.com/bpk-tv/prod_klive3/default/index.mpd?maxrate=3000
 #EXTINF:0 tvg-id="vtv1hd" group-title="🆅🆃🆅" tvg-name="VTV1 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/1__.png",VTV1
 #https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
-https://vips-livecdn.fptplay.net/hda1/vtv1hd_4000.stream/chunklist.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv1hd_4000.stream/chunklist.m3u8
+http://mrduongtv.ddns.net/fpt.php?id=vtv1-hd
 #EXTINF:0 tvg-id="vtv2hd" group-title="🆅🆃🆅" tvg-name="VTV2 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/2__.png",VTV2
 #http://live.tv360.vn/manifest/vtv2/playlist_VTV2-1080-3_6M.m3u8
 #http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
-https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b2500000.m3u8
+#https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b2500000.m3u8
+http://mrduongtv.ddns.net/fpt.php?id=vtv2-hd
 #EXTINF:0 tvg-id="vtv3hd" group-title="🆅🆃🆅" tvg-name="VTV3 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/3__.png",VTV3
 #http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+http://mrduongtv.ddns.net/fpt.php?id=vtv3-hd
 #EXTINF:0 tvg-id="vtv4hd" group-title="🆅🆃🆅" tvg-name="VTV4 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/4__.png",VTV4
 #https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
+http://mrduongtv.ddns.net/fpt.php?id=vtv4-hd
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🆅🆃🆅" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/5__.png", VTV5
 #http://live.tv360.vn/manifest/VTV5_HD/playlist_1080p.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
+http://mrduongtv.ddns.net/fpt.php?id=vtv5-hd
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🆅🆃🆅" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/ct__.png", VTV Cần Thơ
 #http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+http://mrduongtv.ddns.net/fpt.php?id=vtv-can-tho
+
 #EXTINF:0 tvg-id="vtv7hd" group-title="🆅🆃🆅" tvg-name="VTV7 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/27__.png",VTV7
 #https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
+http://mrduongtv.ddns.net/fpt.php?id=vtv7-hd
 #EXTINF:0 tvg-id="vtv8hd" group-title="🆅🆃🆅" tvg-name="VTV8 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/36__.png",VTV8
 #https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
+#http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
+http://mrduongtv.ddns.net/fpt.php?id=vtv8-hd
 #EXTINF:0 tvg-id="vtv9hd" group-title="🆅🆃🆅" tvg-name="VTV9 HD" tvg-logo="https://vtvgo-image.vtvdigital.vn/images/39__.png",VTV9
-https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+http://mrduongtv.ddns.net/fpt.php?id=vtv9-hd
 
+#EXTINF:0 tvg-id="vtvcab16hd" group-title="🆅🆃🆅" tvg-name="VTV1 HD" tvg-logo="https://stvinaprod.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640", ON FOOTBALL
+https://liveh34.vtvcab.vn/hls/BDHD_1924/index.m3u8
+
+#EXTINF:0 tvg-id="vtvcab6hd" group-title="🆅🆃🆅" tvg-logo="https://i.ibb.co/vJqSDSR/mrduong-on-sports-plus-50fps.png",On Sports+
+https://liveh34.vtvcab.vn/hls/ONSPORTPLHD_1256/index.m3u8
+
+#EXTINF:0 tvg-id="vtvcab3hd" group-title="🆅🆃🆅" tvg-logo="https://i.ibb.co/G28603J/mrduong-on-sports-50fps.png",On Sports
+https://liveh34.vtvcab.vn/hls/TTHD_2304/index.m3u8
+
+#EXTINF:0 tvg-id="vtvcab18hd" group-title="🆅🆃🆅" tvg-logo="https://i.ibb.co/y8fZQmp/mrduong-on-sports-news-50fps.png",On Sports New
+https://liveh34.vtvcab.vn/hls/TTTTHD_CL/index.m3u8
 
 
 #EXTINF:0 tvg-id="vtc1hd" group-title="🆅🆃🅲" tvg-logo="https://imgur.com/Pc2ZuX0.png",VTC1
